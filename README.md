@@ -4,7 +4,7 @@
 ![Tkinter](https://img.shields.io/badge/UI-Tkinter-orange.svg)
 ![Licença](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-Uma aplicação de desktop leve e amigável para gerar e salvar QR Codes personalizados, desenvolvida em Python com a interface gráfica Tkinter. Esta versão possui uma interface totalmente responsiva, que se adapta ao tamanho da janela.
+Uma aplicação de desktop leve e amigável para gerar e salvar QR Codes personalizados, desenvolvida em Python com a interface gráfica Tkinter.
 
 ## ✨ Funcionalidades
 
