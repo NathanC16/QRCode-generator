@@ -1,4 +1,4 @@
-# Gerador de QR Code Responsivo
+# Gerador de QR Code
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Tkinter](https://img.shields.io/badge/UI-Tkinter-orange.svg)
