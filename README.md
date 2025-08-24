@@ -6,9 +6,6 @@
 
 Uma aplicação de desktop leve e amigável para gerar e salvar QR Codes personalizados, desenvolvida em Python com a interface gráfica Tkinter. Esta versão possui uma interface totalmente responsiva, que se adapta ao tamanho da janela.
 
-![Pré-visualização do Gerador de QR Code](https://i.imgur.com/link-para-sua-imagem.png)
-*(Sugestão: tire um print da aplicação e hospede em um site como o [Imgur](https://imgur.com/) para colocar o link aqui)*
-
 ## ✨ Funcionalidades
 
 * **Interface Totalmente Responsiva:** A janela, botões, campos de texto e fontes se ajustam de forma fluida ao redimensionamento.
