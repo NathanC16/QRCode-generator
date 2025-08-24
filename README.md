@@ -8,13 +8,12 @@ Uma aplicação de desktop leve e amigável para gerar e salvar QR Codes persona
 
 ## ✨ Funcionalidades
 
-* **Interface Totalmente Responsiva:** A janela, botões, campos de texto e fontes se ajustam de forma fluida ao redimensionamento.
 * **Geração Instantânea:** Insira um texto ou URL e gere o QR Code com um clique.
-* **Pré-visualização:** Veja o resultado do QR Code diretamente na aplicação antes de salvar, sem sobreposição de elementos.
+* **Pré-visualização:** Veja o resultado do QR Code diretamente na aplicação antes de salvar.
 * **Personalização:**
     * Escolha a **cor** do QR Code.
     * Selecione a **cor de fundo**.
-    * Ajuste o **tamanho** (resolução) do QR Code de forma interativa.
+    * Ajuste o **tamanho** (resolução) do QR Code.
 * **Salvar em PNG:** Exporte o QR Code gerado como um arquivo de imagem `.png`.
 
 ## 🛡️ Licença de Código Aberto (GNU GPLv3)
