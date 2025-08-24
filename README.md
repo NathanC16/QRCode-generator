@@ -16,12 +16,6 @@ Uma aplicação de desktop leve e amigável para gerar e salvar QR Codes persona
     * Ajuste o **tamanho** (resolução) do QR Code.
 * **Salvar em PNG:** Exporte o QR Code gerado como um arquivo de imagem `.png`.
 
-## 🛡️ Licença de Código Aberto (GNU GPLv3)
-
-Este projeto está licenciado sob a **GNU General Public License v3.0**.
-
-Isso significa que o código é livre para uso, estudo, compartilhamento e modificação. No entanto, qualquer trabalho derivado ou modificado que você distribuir também deve ser licenciado sob os termos da GPL. O objetivo é garantir que o software e seus derivados permaneçam livres para todos. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE) no repositório.
-
 ## 🚀 Como Executar o Projeto
 
 Para rodar este projeto, você precisa ter o Python 3 instalado em sua máquina.
@@ -83,3 +77,9 @@ python3 qr_coder.py
 * **[Tkinter](https://docs.python.org/3/library/tkinter.html)** - Biblioteca padrão do Python para a criação da interface gráfica.
 * **[qrcode](https://pypi.org/project/qrcode/)** - Biblioteca para a geração dos QR Codes.
 * **[Pillow (PIL Fork)](https://pypi.org/project/Pillow/)** - Utilizada para manipular e exibir as imagens na interface.
+
+## 🛡️ Licença de Código Aberto (GNU GPLv3)
+
+Este projeto está licenciado sob a **GNU General Public License v3.0**.
+
+Isso significa que o código é livre para uso, estudo, compartilhamento e modificação. No entanto, qualquer trabalho derivado ou modificado que você distribuir também deve ser licenciado sob os termos da GPL. O objetivo é garantir que o software e seus derivados permaneçam livres para todos. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE) no repositório.
