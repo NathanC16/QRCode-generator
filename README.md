@@ -37,7 +37,22 @@ git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.co
 cd seu-repositorio
 ```
 
-**2. Crie um ambiente virtual (recomendado):**
+**2. Verifique a Instalação do Tkinter:**
+
+O Tkinter é uma biblioteca padrão do Python, mas pode exigir a instalação de pacotes adicionais em alguns sistemas operacionais, especialmente no Linux.
+
+* **No Linux (Debian/Ubuntu):**
+  ```bash
+  sudo apt-get update
+  sudo apt-get install python3-tk
+  ```
+* **No Linux (Fedora/CentOS/RHEL):**
+  ```bash
+  sudo dnf install python3-tkinter
+  ```
+* **No Windows e macOS:** Geralmente já vem instalado com o Python.
+
+**3. Crie um ambiente virtual (recomendado):**
 
 ```bash
 python3 -m venv venv
@@ -52,7 +67,7 @@ python3 -m venv venv
     source venv/bin/activate
     ```
 
-**3. Instale as dependências:**
+**4. Instale as dependências:**
 
 Todas as bibliotecas necessárias estão listadas no arquivo `requirements.txt`. Instale-as com o seguinte comando:
 
@@ -60,7 +75,7 @@ Todas as bibliotecas necessárias estão listadas no arquivo `requirements.txt`.
 pip install -r requirements.txt
 ```
 
-**4. Execute a aplicação:**
+**5. Execute a aplicação:**
 
 ```bash
 python3 qr_coder.py
